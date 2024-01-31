@@ -1,0 +1,64 @@
+h3 {
+    font-size: 5rem;
+    background-color: #395fc9;
+    color: #ffffff !important;
+    border-radius: 2rem;
+    padding: 1rem;
+    border: #3556b1 5px solid;
+    box-shadow: 10px 20px 10px #8b8b8b;
+}
+
+.cona {
+    background-color: #395fc9;
+    border-radius: 2rem;
+    width: 55%;
+    color: #fff;
+    font-size: 3rem;
+    padding: 2rem;
+    box-shadow: 10px 10px 10px #8b8b8b;
+    border: #3556b1 5px solid;
+}
+
+#camera {
+    height: 300px;
+    width: 350px;
+}
+
+#result {
+    border-radius: 5rem;
+    border: #3556b1 5px dashed;
+    background-color: #395fc9;
+    height: 300px;
+    width: 350px;
+}
+
+#result img {
+    border-radius: 5rem;
+    height: 290px;
+    width: 335px;
+}
+
+video {
+    border-radius: 5rem;
+    border: #3556b1 5px dashed;
+    background-color: #395fc9;
+    border-radius: 5rem;
+    height: 300px;
+    width: 350px;
+}
+
+
+button {
+    border-radius: 2.5rem;
+    border: #3556b1 5px solid;
+    background-color: #395fc9;
+    box-shadow: 10px 10px 10px #8b8b8b;
+    padding: 1.5rem;
+    font-size: 2rem;
+    color: #fff;
+    margin: 2rem;
+}
+
+body {
+    background-color: #f1f1f1;
+}
